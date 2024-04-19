@@ -1,5 +1,4 @@
 #Bill & Tip Calculator
-#Write your code below this line 👇
 
 print("Welcome to the Bill & Tip Calculator")
 total_bill = input("How much was the total bill?\n\u20B9")
@@ -11,6 +10,4 @@ tp = int(total_people)
 #Each Person Should Pay 👇
 #total_bill + tip / total_people
 Final_Split = (tb + tip1) / tp
-print(f"Each person should pay:\u20B9{Final_Split}")
-
 
